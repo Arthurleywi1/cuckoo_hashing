@@ -27,6 +27,6 @@ memory, it can enter an infinite loop and cannot be trusted. However, if
 we can find a way to make improvements to this algorithm, it will be the
 best algorithm available to deal with the collision problem
 
-[![YouTube Video](![image](https://github.com/Arthurleywi1/cuckoo_hashing/assets/106943173/d0b27a02-9999-4c5b-9f3a-3c385e5b295f)
-)(https://youtu.be/QaQ9PAvZN6I)
+# cuckoo hashing demonstration
+(https://youtu.be/QaQ9PAvZN6I)
 
